@@ -34,7 +34,7 @@ Steps to contribute:
 Please make sure your code is well documented
 
 ### Issues
-if you find any issues you can report in [Issues Tab](https://github.com/peanutbutte-r/taskmanager/issues)
+if you find any issues you can report in [Issues Tab](https://github.com/nothingfr87/task-manager/issues)
 
 ### License
 This Project is licensed under the [MIT License](LICENSE)
