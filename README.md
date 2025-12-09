@@ -15,12 +15,11 @@ The script lets you add a task and show all the tasks
 |   Add    |      Adds a new task to the tasks list       |
 |   Get    |      Gets the tasks list from the file and print it out       |
 
-### How to Run
-to run the script just basically do:
+### How to build 
+to build the script just basically do:
+```bash
+make clean build
 ```
-./main
-```
-> Note: I always build the file when I add a new feature so you don't have to
 
 ### Contributing
 All Contributions are welcome whether they are improving the code or adding new features
