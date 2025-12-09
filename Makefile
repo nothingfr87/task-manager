@@ -1,7 +1,9 @@
-GCC_ARGUMENTS = -Wall -O2 -Iinclude -o
+CFLAGS = -Wall -O2 -Iinclude -o
+SRC = src/main.cpp
+OUT = manager
 
 clean:
-	rm -f 'Task Manager' 
+	rm -f $(OUT) 
 
 build:
-	g++ main.cpp $(GCC_ARGUMENTS) 'Task Manager'
+	g++ $(SRC) $(CFLAGS) $(OUT) 
